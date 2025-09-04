@@ -1,4 +1,4 @@
-AppName: AppNumber1
+AppName: App
 Enabled: Enabled
 Version: V1.0.0
 Delete App: False
