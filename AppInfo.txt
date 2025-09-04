@@ -1,4 +1,4 @@
 AppName: AppNumber1
 Enabled: Enabled
-Version: V1.0.0
+Version: V1.0.1
 Delete App: False
