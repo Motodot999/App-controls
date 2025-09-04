@@ -1,2 +1,3 @@
 AppName: AppNumber1
 Enabled: Enabled
+Version: V1.0.0
