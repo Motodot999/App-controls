@@ -1,5 +1,5 @@
 AppName: AppNumber1
-Enabled: Disabled
+Enabled: Enabled
 Version: V1.0.0
 Destroy If Outdated: True
 Delete App: False
