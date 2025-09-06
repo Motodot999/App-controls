@@ -1,6 +1,7 @@
 AppName: AppNumber1
 Enabled: Enabled
 Version: V1.0.0
+Destroy If Outdated: False
 Delete App: False
 Allow VPN: False
 Allow VM: False
