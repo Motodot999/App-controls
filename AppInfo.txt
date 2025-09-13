@@ -5,5 +5,5 @@ Destroy If Outdated: True
 Delete App: False
 Allow VPN: False
 Allow VM: False
-Hash Check: False
+Hash Check: True
 Hash: 
